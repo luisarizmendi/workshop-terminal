@@ -20,7 +20,7 @@ Quick start instructions
 To quickly see what the terminal environment looks like, run:
 
 ```
-oc new-app https://raw.githubusercontent.com/openshift-homeroom/workshop-terminal/master/templates/production.json
+oc new-app https://raw.githubusercontent.com/luisarizmendi/workshop-terminal/develop/templates/production.json
 ```
 
 This will deploy an instance of the user environment as a standalone deployment. The name of the deployment will by default be ``terminal``.
